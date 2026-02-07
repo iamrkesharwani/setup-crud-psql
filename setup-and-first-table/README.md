@@ -7,7 +7,7 @@ A foundational project implementing a production-ready PostgreSQL schema and bas
 ### 1. Initialize Database:
 
 ```sql
-CREATE DATABASE myapp
+CREATE DATABASE myapp;
 ```
 
 ### 2. Connect to Database:
