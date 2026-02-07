@@ -53,7 +53,7 @@ SELECT name FROM users WHERE id = 1;
 ```sql
 UPDATE users
 SET name = 'New Name'
-WHERE id = 1
+WHERE id = 1;
 ```
 
 ### 4. Delete
